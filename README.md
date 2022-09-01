@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stan</h1>
 
+<p align="center">
+
 ![Jacke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacke&show_icons=true&theme=noctis_minimus)
+
+</p>
+
 
 ## Summary
 
