@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stan</h1>
+
 ![Jacke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacke&show_icons=true&theme=noctis_minimus)
+
 ## Summary
 
 > With 10+ years of experience in the software engineering industry. Highly skilled cross-stack (Senior Scala / Team Lead) engineer with knowledge of low level (e.g., Assembly & Byte-code performance-boosting)
