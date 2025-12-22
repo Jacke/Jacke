@@ -9,7 +9,7 @@
 
 ## Summary
 
-> With 10+ years of experience in the software engineering industry. Highly skilled cross-stack (Senior Scala / Team Lead) engineer with knowledge of low level (e.g., Assembly & Byte-code performance-boosting)
+> Highly skilled cross-stack (Senior Scala / Team Lead) engineer with knowledge of low level (e.g., Assembly & Byte-code performance-boosting)
 > 
 - I can **boost development** on any project **at any stage**, from prototype to highly scalable services. I can focus on essential parts and do more imaginative and less legitimate based on my latest experiences
 - I am very **disciplined** and independent of external factors, **effectively assessing** and coordinating tasks to complete **on time**. I am Innovative, full of enthusiasm, and unconditionally follow the work ethic
