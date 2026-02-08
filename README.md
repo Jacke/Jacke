@@ -5,18 +5,18 @@
 <h1 align="center">Hi, I'm Stan</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Senior+Scala+Engineer;Team+Lead+%7C+Architecture+MVP+%E2%86%92+Scale;Rust+%7C+Kotlin+%7C+TypeScript;Building+systems+that+last" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Senior+Go+Engineer;Team+Lead+%7C+Architecture+MVP+%E2%86%92+Scale;Rust+%7C+Kotlin+%7C+TypeScript;Building+systems+that+last" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scala,kotlin,ts,java,rust,go,python,docker,kubernetes,aws,postgres,kafka,redis,react&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,kotlin,ts,java,rust,scala,python,docker,kubernetes,aws,postgres,kafka,redis,react&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
 ## Summary
 
-> Senior Scala / Team Lead with deep cross-stack expertise — from JVM bytecode tuning to cloud-native architecture.
+> Senior Go / Team Lead with deep cross-stack expertise — from JVM bytecode tuning to cloud-native architecture.
 
 - Architecture from **MVP to high scalability** — I focus on essential parts and ship what matters
 - Experience **hiring and building dev teams**, both engineers and managers
