@@ -86,9 +86,9 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jacke&theme=onedark&no-frame=true&row=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jacke&theme=flat&no-frame=true&row=1" />
-      <img src="https://github-profile-trophy.vercel.app/?username=Jacke&theme=onedark&no-frame=true&row=1" alt="Trophies" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Jacke&theme=onedark&no-frame=true&row=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=Jacke&theme=flat&no-frame=true&row=1" />
+      <img src="https://github-trophies.vercel.app/?username=Jacke&theme=onedark&no-frame=true&row=1" alt="Trophies" />
     </picture>
   </a>
 </p>
