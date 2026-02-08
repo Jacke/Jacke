@@ -5,27 +5,27 @@
 <h1 align="center">Hi, I'm Stan</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Senior+Go+Engineer;Team+Lead+%7C+Architecture+MVP+%E2%86%92+Scale;Rust+%7C+Kotlin+%7C+TypeScript;Building+systems+that+last" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Senior+Go+Engineer+%7C+ML+%7C+Architect;Scalability+%7C+Distributed+Systems;Go+%7C+Rust+%7C+Python+%7C+Kubernetes;Building+systems+that+scale" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kotlin,ts,java,rust,scala,python,docker,kubernetes,aws,postgres,kafka,redis,react&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,rust,python,tensorflow,docker,kubernetes,aws,gcp,postgres,kafka,redis,grafana&theme=dark" alt="Tech Stack" />
   </a>
 </p>
 
 ## Summary
 
-> Senior Go / Team Lead with deep cross-stack expertise — from JVM bytecode tuning to cloud-native architecture.
+> Senior Go Engineer & Architect — distributed systems, ML pipelines, and infrastructure designed to scale.
 
-- Architecture from **MVP to high scalability** — I focus on essential parts and ship what matters
-- Experience **hiring and building dev teams**, both engineers and managers
-- Full-stack capability: backend systems, DevOps pipelines, frontend when needed
-- Always expanding skills — Rust, ZIO, distributed systems, AI tooling
+- **System architecture** from MVP to high-load — designing services that handle millions of requests
+- **ML/AI infrastructure** — building production pipelines for model training, serving, and monitoring
+- **Scalability engineering** — performance optimization, capacity planning, distributed consensus
+- Deep expertise in **Go, Rust, Python** and cloud-native stack (K8s, AWS, GCP)
 
 ---
 
-- :telescope: Currently working on **Rust bots, ZIO services & AI-powered tooling**
+- :telescope: Currently working on **high-throughput Go services, ML pipelines & scalable infrastructure**
 - :mailbox: How to reach me: **[iamjacke.com](https://iamjacke.com)**
 
 ## Current Projects
